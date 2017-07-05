@@ -1,5 +1,3 @@
-// Chapter #2 Example
-// January 26, 2016
 #include <iostream>
 #include "clock.h"
 
